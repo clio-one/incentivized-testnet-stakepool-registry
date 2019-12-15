@@ -2,6 +2,7 @@
   "owner": "ed25519_pk129p03fxu9wc8dg5qhetttf4anqnp5j05s8vltcjzafq2zkqmf2rqznw4u6",
   "name": "clio.one",
   "ticker": "CLIO",
+  "description": "Stake it easy! TierIII datacenter, 100% independent from big cloud providers for a better decentralisation.",
   "homepage": "https://stake.clio.one",
   "pledge_address": "addr1s4g5979yms4mqa4zszl9dddxhkvzvxjf7jqana0zgt4ypg2crd9gvhhgn2y"
 }
